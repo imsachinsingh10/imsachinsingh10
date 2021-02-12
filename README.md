@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 ## I'm a Developer, Engineering Student and Code Geek
 
-- 🔭 I just going to have an event called Xordium in the Club
+- 🔭 I'm just going to have an event called Xordium in the Club where I will be the Mentor of Software Development Program
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for a job and an internship as a SDE intern
+- 👯 I’m looking for a job and an internship opportunity as a SDE
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch Anime a lot 
 - 😄 Happy Coding!!
